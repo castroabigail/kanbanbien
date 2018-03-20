@@ -16,3 +16,20 @@ li{
 	background-color: #f8f9fa;
 	height: 80px;
 }
+.registro{
+	background-image: url(../imagenes/bg-masthead.jpg);
+	height: 500px; 
+}
+h1{
+	text-align: center;
+	margin-top: 15%;
+	color: white;
+}
+input{
+	display: block;
+	margin:auto;
+	margin-left: 450px;
+}
+.boton2{
+	margin-left: 5%;
+}
