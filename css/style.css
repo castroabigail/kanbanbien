@@ -1,0 +1,18 @@
+li{
+	list-style: none;
+}
+.sign{
+	float: right;
+	margin-right: 20%;
+	margin-top: 15px;
+	background-color: #f8f9fa;
+}
+.start{
+	text-align: center;
+	font-size: 30px;
+	margin-top: 3%;
+}
+#parte1{
+	background-color: #f8f9fa;
+	height: 80px;
+}
