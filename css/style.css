@@ -113,3 +113,32 @@ input{
 	margin-top: 10%;
 	color: white;
 }
+ul{
+	list-style: none;
+}
+.nav li a{
+	color: blue;
+	text-decoration: none;
+	padding: 7px;
+	display: block;
+}
+.nav >li {
+	float: left;
+	margin-left: 5%;
+	margin-top: 10%;
+}
+.copy{
+	display: block;
+	margin:auto;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+.final{
+	right: 100px;
+	background-color: #f8f9fa;
+}
+.iconofinal{
+	float: right;
+	background-color: #f8f9fa;
+	margin-left: 50px;
+}
