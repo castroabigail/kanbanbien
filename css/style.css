@@ -33,3 +33,29 @@ input{
 .boton2{
 	margin-left: 5%;
 }
+#icono3{
+	display: block;
+	margin:auto;
+	margin-top: 22%;
+}
+#icono2{
+	display: block;
+	margin:auto;
+	margin-top: 22%;
+}
+#icono1{
+	display: block;
+	margin:auto;
+	margin-top: 22%;
+}
+.textparte3{
+	text-align: center;
+	margin-top: 5%;
+}
+.titulospartetres{
+	text-align: center;
+	margin-top: 5%;
+}
+.iconos{
+	background-color: #f8f9fa; 
+}
