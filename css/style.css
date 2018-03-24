@@ -57,5 +57,29 @@ input{
 	margin-top: 5%;
 }
 .iconos{
-	background-color: #f8f9fa; 
+	background-color: #f8f9fa;
+	height: 380px; 
+}
+
+#imgcel{
+	width: 100%;
+}
+.titulofully{
+	text-align: center;
+	margin-top: 20%;
+	font-size: 35px;
+}
+.pfully{
+	text-align: center;
+	font-size: 18px;
+	margin-top: 5%;
+}
+.parte4{
+	background-color: #FFFAFA;
+}
+#img2{
+	width: 100%;
+}
+#img3{
+	width: 100%;
 }
