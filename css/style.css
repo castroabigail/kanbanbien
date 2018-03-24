@@ -103,3 +103,13 @@ input{
 	text-align: center;
 	margin-top: 5%;
 }
+#parte6{
+	background-image: url(../imagenes/bg-masthead.jpg);
+	height: 300px; 
+	margin-top: 5%;
+}
+.tituloparte5{
+	text-align: center;
+	margin-top: 10%;
+	color: white;
+}
